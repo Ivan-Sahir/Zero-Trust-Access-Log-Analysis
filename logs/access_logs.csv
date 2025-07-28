@@ -1,0 +1,61 @@
+timestamp,user_email,ip_address,device_id,access_result,reason
+2025-07-27T21:44:11.312938,john.doe@company.com,192.168.32.107,dev005,allow,Policy match
+2025-07-27T10:11:11.312938,bob.jones@company.com,192.168.176.211,dev002,allow,Policy match
+2025-07-27T22:52:11.312938,jane.doe@partner.org,192.168.237.15,dev002,allow,Policy match
+2025-07-27T19:50:11.312938,jane.doe@company.com,192.168.151.131,dev002,deny,MFA not completed
+2025-07-27T08:17:11.312938,jane.doe@company.com,192.168.149.100,dev004,deny,MFA not completed
+2025-07-27T15:55:11.312938,alice.smith@company.com,192.168.47.237,dev002,allow,Policy match
+2025-07-27T14:40:11.312938,john.doe@company.com,192.168.104.11,dev004,deny,Location not allowed
+2025-07-27T16:46:11.312938,alice.smith@partner.org,192.168.227.50,dev005,allow,Policy match
+2025-07-27T10:49:11.312938,alice.smith@company.com,192.168.231.249,dev005,deny,IP reputation
+2025-07-27T11:12:11.312938,tom.wilson@partner.org,192.168.6.230,dev001,deny,Unrecognized device
+2025-07-27T22:39:11.312938,tom.wilson@company.com,192.168.233.213,dev001,deny,IP reputation
+2025-07-27T20:21:11.312938,bob.jones@company.com,192.168.238.185,dev001,allow,Policy match
+2025-07-27T16:52:11.312938,john.doe@partner.org,192.168.94.85,dev002,allow,Policy match
+2025-07-27T18:27:11.312938,john.doe@partner.org,192.168.74.26,dev003,allow,Policy match
+2025-07-27T07:08:11.312938,alice.smith@company.com,192.168.75.45,dev004,deny,MFA not completed
+2025-07-27T16:30:11.312938,tom.wilson@partner.org,192.168.114.188,dev003,allow,Policy match
+2025-07-27T09:36:11.312938,tom.wilson@company.com,192.168.110.235,dev002,allow,Policy match
+2025-07-27T17:36:11.312938,john.doe@company.com,192.168.15.32,dev002,deny,MFA not completed
+2025-07-27T12:19:11.312938,jane.doe@company.com,192.168.221.21,dev004,allow,Policy match
+2025-07-27T22:23:11.312938,alice.smith@partner.org,192.168.163.95,dev003,deny,Time-based restriction
+2025-07-27T20:56:11.312938,jane.doe@partner.org,192.168.214.216,dev005,allow,Policy match
+2025-07-27T09:22:11.312938,alice.smith@partner.org,192.168.146.234,dev002,allow,Policy match
+2025-07-27T22:42:11.312938,alice.smith@company.com,192.168.180.103,dev001,allow,Policy match
+2025-07-27T20:58:11.312938,john.doe@company.com,192.168.186.38,dev004,allow,Policy match
+2025-07-27T08:02:11.312938,alice.smith@company.com,192.168.230.18,dev001,allow,Policy match
+2025-07-27T19:33:11.312938,alice.smith@company.com,192.168.67.234,dev004,deny,MFA not completed
+2025-07-27T07:03:11.312938,tom.wilson@company.com,192.168.59.5,dev003,allow,Policy match
+2025-07-27T14:55:11.312938,john.doe@company.com,192.168.16.182,dev003,allow,Policy match
+2025-07-27T23:13:11.312938,bob.jones@company.com,192.168.94.132,dev005,deny,IP reputation
+2025-07-27T21:26:11.312938,tom.wilson@partner.org,192.168.162.49,dev003,allow,Policy match
+2025-07-27T13:00:11.312938,john.doe@partner.org,192.168.182.27,dev005,deny,Unrecognized device
+2025-07-27T07:54:11.312938,bob.jones@company.com,192.168.229.161,dev003,allow,Policy match
+2025-07-27T11:39:11.312938,tom.wilson@company.com,192.168.200.80,dev002,allow,Policy match
+2025-07-27T13:26:11.312938,jane.doe@partner.org,192.168.77.176,dev003,allow,Policy match
+2025-07-27T07:42:11.312938,john.doe@partner.org,192.168.247.231,dev001,deny,Location not allowed
+2025-07-27T14:01:11.312938,tom.wilson@partner.org,192.168.148.98,dev002,allow,Policy match
+2025-07-27T22:13:11.312938,tom.wilson@partner.org,192.168.155.76,dev004,allow,Policy match
+2025-07-27T07:41:11.312938,alice.smith@company.com,192.168.187.122,dev005,allow,Policy match
+2025-07-27T17:09:11.312938,jane.doe@partner.org,192.168.185.55,dev005,allow,Policy match
+2025-07-27T19:15:11.312938,alice.smith@company.com,192.168.15.114,dev002,deny,IP reputation
+2025-07-27T14:44:11.312938,alice.smith@company.com,192.168.86.72,dev001,allow,Policy match
+2025-07-27T12:08:11.312938,john.doe@company.com,192.168.120.243,dev002,allow,Policy match
+2025-07-27T19:05:11.312938,bob.jones@company.com,192.168.3.205,dev004,allow,Policy match
+2025-07-27T12:53:11.312938,john.doe@company.com,192.168.71.242,dev001,allow,Policy match
+2025-07-27T22:34:11.312938,jane.doe@company.com,192.168.174.223,dev001,deny,MFA not completed
+2025-07-27T12:54:11.312938,jane.doe@company.com,192.168.254.129,dev004,allow,Policy match
+2025-07-27T21:39:11.312938,tom.wilson@partner.org,192.168.244.68,dev001,allow,Policy match
+2025-07-27T18:37:11.312938,jane.doe@partner.org,192.168.170.175,dev003,deny,Time-based restriction
+2025-07-27T20:59:11.312938,bob.jones@company.com,192.168.120.238,dev001,allow,Policy match
+2025-07-27T06:52:11.312938,alice.smith@company.com,192.168.48.180,dev002,deny,IP reputation
+2025-07-27T19:04:11.312938,john.doe@partner.org,192.168.116.12,dev002,deny,Time-based restriction
+2025-07-27T18:46:11.312938,jane.doe@partner.org,192.168.95.219,dev001,allow,Policy match
+2025-07-27T07:42:11.312938,john.doe@company.com,192.168.21.52,dev003,allow,Policy match
+2025-07-27T07:46:11.312938,tom.wilson@company.com,192.168.91.123,dev002,deny,Unrecognized device
+2025-07-27T19:54:11.312938,jane.doe@company.com,192.168.104.114,dev001,allow,Policy match
+2025-07-27T11:29:11.312938,alice.smith@company.com,192.168.60.121,dev004,allow,Policy match
+2025-07-27T18:18:11.312938,jane.doe@company.com,192.168.212.74,dev005,deny,Time-based restriction
+2025-07-27T21:12:11.312938,jane.doe@partner.org,192.168.76.46,dev004,deny,MFA not completed
+2025-07-27T13:15:11.312938,john.doe@company.com,192.168.87.229,dev002,allow,Policy match
+2025-07-27T15:05:11.312938,tom.wilson@company.com,192.168.59.168,dev005,allow,Policy match
